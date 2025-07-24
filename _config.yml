@@ -22,7 +22,7 @@ avatar_image: /img/Harry.jpeg
 
 #-------------------------------
 # Contact links
-linkedln: "www.linkedin.com/in/harrypatterson0227" # Add your linkedln handle
+linkedln: "https://www.linkedin.com/in/harrypatterson0227/" # Add your linkedln handle
 github: "https://precisionanalyticsml.github.io"  # Add your github handle
 
 paginate: 6
